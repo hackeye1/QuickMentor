@@ -1,0 +1,27 @@
+.left-top img{
+    width:45%;
+    height:10%;
+    object-fit: cover;
+}
+.left-top-top{
+    width:100%;
+    border:2px solid red;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: left;
+    gap:10px;
+}
+.left-top-top button{
+    all:unset;
+    width:18%;
+    text-align:center;
+    background-color: #e2e3f9;
+    border-radius:30px;
+    color:#6380dc;
+}
+.left-top-top p{
+    max-width:50%;
+    padding-left:5%;
+}
+
